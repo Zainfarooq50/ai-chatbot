@@ -1,0 +1,9 @@
+--- Fun Bot Chat Session ---
+
+You: tell me a joke
+
+Bot: Sure! Why did the scarecrow win an award? Because he was outstanding in his field!
+
+You: haha
+
+Bot: Glad you enjoyed it! Do you want to hear another joke?
