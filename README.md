@@ -20,7 +20,7 @@ This Python-based chatbot simulates natural conversations with different persona
   ```python
   api_key = "YOUR_OPENAI_API_KEY"
 🚀 How to Use
-Add your OpenAI API key to config.py
+Paste your OPENAI key in .env file.
 
 Run the chatbot:
 
